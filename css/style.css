@@ -16,6 +16,10 @@ body {
   background-repeat: no-repeat;
 }
 
+.test-for-git {
+  display: none;
+}
+
 .inner-page {
   color: #000000;
 
